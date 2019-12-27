@@ -1,0 +1,27 @@
+(base) C:\Users\SCC>conda activate C:\Users\SCC\Anaconda3\envs\python-cvcourse
+then jupyter-lab
+
+
+Token authentication is enabled
+If no password has been configured, you need to open the notebook server with its login token in the URL, or paste it above. This requirement will be lifted if you enable a password.
+
+The command:
+
+jupyter notebook list
+
+steps: Run jupyter-lab > jupyter notebook opens in firefox > (if you want to open another notebook simultaniously/side by side) do: copy url+token from terminal
+and > paste it in chrome . hola  
+
+
+In normal CLI
+
+
+
+https://www.tensorflow.org/install/pip#older-versions-of-tensorflow
+
+ Create a virtual environment (recommended)
+Python virtual environments are used to isolate package installation from the system. 
+
+run:
+
+pip3 install --user --upgrade tensorflow (ss)
